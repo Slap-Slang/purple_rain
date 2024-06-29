@@ -1,0 +1,9 @@
+[package]
+name = "purple_rain"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+macroquad = "0.4.8"
+vrd = "0.0.7"
+cvector = { git = "https://github.com/Slap-Slang/cvector.git"}
